@@ -1,4 +1,4 @@
 compass:
-  build: .
+  build: docker
   volumes:
   - .:/home/compass/project
